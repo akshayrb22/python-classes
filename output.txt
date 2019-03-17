@@ -1,0 +1,6 @@
+Student Name	USN
+Akshay	4SF16IS012
+Mahesh	4SF16IS801
+Ashik	4SF16IS045
+Harshith	4SF16IS909
+6IS909

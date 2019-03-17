@@ -1,3 +1,6 @@
 Some random string
 Another random string
 Third random string
+CGPA:9.7
+CGPA:8.5
+Next string
